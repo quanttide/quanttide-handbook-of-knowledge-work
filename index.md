@@ -6,4 +6,6 @@
 
 ## 目录
 
-- [日志](./artifacts/journal.md)
+- [工作物](./artifacts/index.md)
+  - [日志](./artifacts/journal.md)：捕获入口
+  - [档案](./artifacts/profile.md)：沉淀层
