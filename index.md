@@ -9,4 +9,4 @@
 ## 目录
 
 - [产物规范](./artifacts/index.md)：全体产物的共性规则——角色唯一、三段式流动、单一去处、不留副本、可再找到、组织自主。
-- [任务](./tasks/)：工作物之间的流动关系，非工作物——[从意图到路线图](./tasks/from-intention-to-roadmap.md)
+- [任务](./tasks/)：产物之间的流动关系，非产物——步骤案例见[画廊·流程](../gallery/workflows/index.md)
