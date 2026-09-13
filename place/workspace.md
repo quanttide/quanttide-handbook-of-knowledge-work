@@ -6,7 +6,7 @@
 
 ## 生命周期
 
-1. 划界：新建领域或主体即成立工作区，二十格资产按章程落位，一般格式见[领域第二大脑](../../gallery/workspaces/domain-second-brain.md)。
+1. 划界：新建领域或主体即成立工作区，产物按[类别](../../specification/piece/category.md)落位，一般格式见[领域第二大脑](../../gallery/workspaces/domain-second-brain.md)。
 2. 域内流动：工作区内的资产之间按[产物规范](../piece/artifact.md)流动。
 3. 跨区流动：归属判定先于搬运，步骤见[从主体到领域](../../gallery/workflows/from-default-to-domain.md)；只在自己的工作区提交，不改别区内容。
 4. 登记：新工作区登记到案例目录。
