@@ -18,6 +18,7 @@
 
 - 工作区划界改用「产物类别」：去掉写死的「二十格资产按章程落位」，类别定义见规格 [产物类别](../specification/piece/artifact.md)
 - 产物类别定义迁入资产画廊：本手册与 [产物规范](./piece/artifact.md) 两处链接改为指向 `quanttide-gallery-of-asset-management/category/`，说法由「案例」改为「类别」
+- 画廊 `workflows/` 改名 `pipelines/`：本手册三处指向流程案例的链接随目录更新，称呼由「画廊·流程」改为「画廊·管道」
 
 ### 修正
 
