@@ -9,6 +9,6 @@
 ## 目录
 
 - [产物规范](./piece/artifact.md)：全体产物的共性规则——角色唯一、三段式流动、单一去处、不留副本、可再找到、组织自主。
-- [工作流规范](./process/workflow.md)：产物之间的流动关系，非产物——步骤案例见[画廊·管道](../gallery/pipelines/index.md)
+- [工作流规范](./process/workflow.md)：产物之间的流动关系，非产物——步骤案例见[画廊·管道](https://github.com/quanttide/quanttide-gallery-of-asset-management/tree/main/pipelines)
 - [工作区](./place/workspace.md)：一次工作的边界——划界、域内流动、跨区流动、登记。
 - [澄清](./stage/clarify.md)：人机协作的必要生命周期阶段——识别信号、拉回方向、沉淀规则。

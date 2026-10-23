@@ -6,12 +6,12 @@
 
 ## 生命周期
 
-1. 编写：按「目标/步骤/验收」三段编写，登记到[画廊·管道](../../gallery/pipelines/index.md)。
+1. 编写：按「目标/步骤/验收」三段编写，登记到[画廊·管道](https://github.com/quanttide/quanttide-gallery-of-asset-management/tree/main/pipelines)。
 2. 执行：遵守[产物规范](../piece/artifact.md)的共性规则——单一去处、不留副本、上游净缩短。
-3. 跨区：归属判定先于搬运，见[从主体到领域](../../gallery/pipelines/from-default-to-domain.md)。
+3. 跨区：归属判定先于搬运，见[从主体到领域](https://github.com/quanttide/quanttide-gallery-of-asset-management/blob/main/pipelines/from-default-to-domain.md)。
 
 ## 验收
 
-- 每条工作流三段齐全，已登记到画廊·流程。
+- 每条工作流三段齐全，已登记到画廊·管道。
 - 执行未违反共性规则：内容单一去处、上游不留副本。
-- 跨区流动满足流程案例的验收。
+- 跨区流动满足管道案例的验收。
